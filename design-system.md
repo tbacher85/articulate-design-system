@@ -2,7 +2,7 @@
 
 This reference guide defines the psychological, clinical rationale, and exact HEX codes for our Articulate Rise 360 training modules. 
 
-> **Core Design Principle:** While we maintain a clean white background (`#FFFFFF` / `#F9F8F6`) and neutral dark typography across all courses for consistency, **we swap the primary structural/accent color depending on the medical topic** to give each module the right clinical and emotional tone (moving away from a rigid, monolithic use of traditional blue).
+> **Core Design Principle:** While we maintain a clean white background (`#FFFFFF` / `#F9F8F6`) or the default Theme tint from Articulate, and neutral dark typography across all courses for consistency, **we swap the primary structural/accent color depending on the medical topic** to give each module the right clinical and emotional tone (moving away from a rigid, monolithic use of traditional blue).
 
 ---
 
