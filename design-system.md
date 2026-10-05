@@ -1,6 +1,6 @@
 # Healthcare E-Learning Color Reference Guide
 
-This reference guide defines the psychological and clinical rationale for using specific colors in our medical training modules, helping us choose the right thematic palette while maintaining educational clarity for healthcare staff in Articulate Rise 360.
+This reference guide defines the psychological, clinical rationale, and exact HEX codes for using specific colors in our medical training modules, helping us choose the right thematic palette while maintaining educational clarity for healthcare staff in Articulate Rise 360.
 
 ---
 
@@ -20,6 +20,11 @@ This reference guide defines the psychological and clinical rationale for using 
 * **HEX Code:** `#FFFFFF` / `#F9F8F6` (Clean White & Warm Alabaster)
 * **Why to use it:** Provides a neutral, distraction-free visual space, lowers cognitive load for busy healthcare professionals, and ensures optimal reading comfort.
 * **When to use it:** As the primary background color across all Rise 360 blocks to guarantee complete visual consistency from one clinical module to another.
+
+🔘 **Light Gray — Structure, visual breathing room, neutrality**
+* **HEX Code:** `#EFECE6` or `#F0F1F3` (Soft Structural Light Gray)
+* **Why to use it:** Creates essential structural separation between sections and prevents visual fatigue, allowing busy medical staff to transition smoothly from theory to concrete examples.
+* **When to use it:** For alternating block backgrounds in Rise 360, or inside structured components like *Tabs*, *Flashcards*, and quote boxes to organize complex clinical data cleanly.
 
 🔴 **Red — Urgency, blood, danger, rapid intervention**
 * **HEX Code:** `#A94C38` (Deep Brick Red)
