@@ -1,6 +1,6 @@
 # HealthCare E-Learning Design System - Thematic Color Framework
 
-This document outlines how we adapt our Articulate Rise 360 modules by varying the accent colors while maintaining a clean white general background.
+This document outlines how we adapt our Articulate Rise 360 modules by varying accent colors while maintaining a clean white background.
 
 ---
 
@@ -11,21 +11,17 @@ This document outlines how we adapt our Articulate Rise 360 modules by varying t
 
 ## 🎨 Thematic Variations (Replacing Traditional Blue)
 
-### 1. Mental Health & Well-being
-* **Primary Accent / Headers:** `![#4A6B6C](https://placehold.co/15x15/4A6B6C/4A6B6C.png) Soft Slate / Muted Teal (`#4A6B6C`)`
-* **Intent:** Calm, reduce cognitive load, create a safe space.
-
-### 2. Clinical Care & Emergency
-* **Primary Accent / Headers:** `![#3B4D43](https://placehold.co/15x15/3B4D43/3B4D43.png) Deep Forest Sage (`#3B4D43`)`
-* **Intent:** Precision, clinical rigor, focus.
-
-### 3. Prevention & Patient Care
-* **Primary Accent / Headers:** `![#D47A55](https://placehold.co/15x15/D47A55/D47A55.png) Solar Terracotta (`#D47A55`)`
-* **Intent:** Warmth, human connection, approachability.
+| Theme | Color Name & Code | Hex Preview / Intent |
+| :--- | :--- | :--- |
+| **1. Mental Health & Well-being** | Soft Slate / Muted Teal (`#4A6B6C`) | Calm, reduce cognitive load, create a safe space. |
+| **2. Clinical Care & Emergency** | Deep Forest Sage (`#3B4D43`) | Precision, clinical rigor, focus. |
+| **3. Prevention & Patient Care** | Solar Terracotta (`#D47A55`) | Warmth, human connection, approachability. |
 
 ---
 
 ## 💡 Semantic Feedback Colors (Universal)
-* **Success:** `![#5B7053](https://placehold.co/15x15/5B7053/5B7053.png) Olive Green (`#5B7053`)`
-* **Warning:** `![#C88A3B](https://placehold.co/15x15/C88A3B/C88A3B.png) Warm Amber (`#C88A3B`)`
-* **Error:** `![#A94C38](https://placehold.co/15x15/A94C38/A94C38.png) Deep Brick (`#A94C38`)`
+| Feedback Type | Color Name & Code | Usage in Rise 360 |
+| :--- | :--- | :--- |
+| **Success** | Olive Green (`#5B7053`) | Correct answers in Knowledge Checks / Quizzes |
+| **Warning** | Warm Amber (`#C88A3B`) | Cautions and preventive alerts |
+| **Error** | Deep Brick (`#A94C38`) | Critical errors / safety risks |
